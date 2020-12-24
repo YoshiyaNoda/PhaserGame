@@ -1,0 +1,13 @@
+aaaaa
+adkkd
+<<<<<<< HEAD
+aaaaaa
+aaaaaa
+
+
+aaaaaa
+=======
+rennshuu 
+
+git 
+>>>>>>> e5004d99928df55606feea1348833dd18e77ae5b
